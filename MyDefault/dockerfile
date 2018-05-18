@@ -2,7 +2,7 @@
 	FROM amazonlinux:latest
 
 # Maintainer
-	LABEL description="Mi contenedor por defecto en ProcessMaker.."
+	LABEL description="Mi contenedor por defecto"
 
 # Initial steps
         CMD ["/bin/bash"]
