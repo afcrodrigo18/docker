@@ -27,7 +27,7 @@ echo "
    ░░░░       ░░░░     WELCOME TO PROCESSMAKER 3.2.2 Enterprise
   ░░░░  ░░░░░   ░░░
   ░░░  ░░░░░░░  ░░░░   - This version of ProcessMaker use MySql 5.6
-  ░░░  ░░░░░░   ░░░    - The following command run mysql56 in docker:
+  ░░░  ░░░░░░   ░░░    - The following command run mysql56 in Docker:
    ░░  ░░     ░░░░     -> docker run --name pm-db56 -e MYSQL_ROOT_PASSWORD=PM-Testdb -p 3306:3306 -d mysql:5.6
     ░  ░░░░░░░░░       
        ░░░░░░░         For more information see https://www.processmaker.com
