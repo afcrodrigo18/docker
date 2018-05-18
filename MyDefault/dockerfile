@@ -2,7 +2,7 @@
 	FROM amazonlinux:latest
 
 # Maintainer
-	LABEL description="Mi contenedor por defecto"
+	LABEL description="Mi contenedor"
 
 # Initial steps
         CMD ["/bin/bash"]
